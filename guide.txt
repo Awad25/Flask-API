@@ -1,0 +1,11 @@
+# pip freeze > requirements.txt (in the bash terminal)
+# (it creates a requirements.txt that has all the dependencies used in the project)
+
+# after u create it using the pip freeze > requirements.txt you simply need to share it with your co workers and they will only need to run it using 
+
+# pip install -r requirements.txt (Bash terminal)
+
+# and it will install all the dependencies used for the project 
+
+#  source .venv/Scripts/activate to activate the virtual environment.
+ # Use py api.py down in the bash terminal to run the API.
